@@ -10,6 +10,7 @@ Rules: Tic-Tac-Toe is played according to the following rules.
 """
 
 
+
 # global variables
 board = ["-", "-", "-", "-", "-", "-", "-", "-", "-"] 
 in_game = True
